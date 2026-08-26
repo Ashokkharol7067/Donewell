@@ -1,6 +1,6 @@
 # Donewell Task Manager
 
-A full-stack task management system built as a portfolio project. Users can create an account, manage their own tasks, filter and search their list, and see dashboard statistics.
+A full-stack task management system. Users can create an account, manage their own tasks, filter and search their list, and see dashboard statistics.
 
 ## Stack
 
